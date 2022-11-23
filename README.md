@@ -12,6 +12,8 @@ Steps
 - [ ] Group READMe:
   + [ ] Team Name
   + [ ] Team members and email addresses
+    * [ ] Which individual analysis notebook belongs to which team member
+  + [ ] Canvas group number
   + [ ] Description and links to datasets used
   + [ ] One sentence overview of repository, meant for someone not familiar with the project
 - [ ] Ishaan Individual Report

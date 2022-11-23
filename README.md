@@ -9,6 +9,11 @@ Graham's Dataset: [City of Pittsburgh Property Tax Delinquency](https://data.wpr
 
 Steps
 - [ ] Create zip code dataset
+- [ ] Group READMe:
+  + [ ] Team Name
+  + [ ] Team members and email addresses
+  + [ ] Description and links to datasets used
+  + [ ] One sentence overview of repository, meant for someone not familiar with the project
 - [ ] Ishaan Individual Report
 - [ ] Ezra Individual Report
 - [ ] Graham Individual Report

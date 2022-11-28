@@ -1,0 +1,19 @@
+Most Responsible Neighborhood in Pittsburgh
+
+Team Irresponsibles
+
+The Metric
+
+Our metrics were determnined by looking at the following datasets:
+
+Tax Delinquency:
+
+For Tax delinquency, each neighborhood was counted as its seperate entitiy and the total number of tax delinquencies were figured out for each of them. After that the neighborhoods with less than 10 accounts of Delinquency were dropped as their records can be considered inconsistent. Finally using the number of tax delinquencies and the median amount of tex delinquenciy in each neighborhood, we could figure out the rankings of the neighborhoods.
+
+Winner (most responsible with least tax delinquency): Bluff
+
+Loser (least responsible with most tax delinquency): Central Business District
+
+Fire Incidents:
+
+For 

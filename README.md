@@ -16,10 +16,3 @@ Used in this project for population data for Pittsburgh neighborhoods <br>
 ***
 ### Summary
 This is a project to determine the best neighborhood in Pittsburgh based on some metric. Our metric is: **`responsibility`**
-
-To Do:
-- [ ] Create zip code dataset
-- [ ] Group READMe
-- [ ] Ishaan Individual Report
-- [ ] Combined Report
-  + [ ] Individual conclusions

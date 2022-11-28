@@ -1,22 +1,25 @@
-# final-project
-Overall metric: Most Responsible Neighborhood
+# ***The Irresponsibles'* Final Project** (Group 13)
+### Authors
+**Ishaan** (FOLDER) <br> (EMAIL) <br>
+**Ezra** (ezra folder) <br> erc133@pitt.edu <br>
+**Graham** (graham folder) <br> (EMAIL) <br>
+***
+### Datasets
+[Fire Incidents in City of Pittsburgh](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh) <br>
+(DESCRIPTION) <br>
+[Non-Traffic Citations](https://data.wprdc.org/dataset/non-traffic-citations) <br>
+Includes information on offenses such as disorderly conduct, the absence of a dog license, etc. <br>
+[Neighborhoods with SNAP Data](https://data.wprdc.org/dataset/neighborhoods-with-snap-data) <br>
+Used in this project for population data for Pittsburgh neighborhoods <br>
+[City of Pittsburgh Property Tax Delinquency](https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency) <br>
+(DESCRIPTION)
+***
+### Summary
+This is a project to determine the best neighborhood in Pittsburgh based on some metric. Our metric is: **`responsibility`**
 
-Ishaan's Dataset: [Allegheny County Fatal Accidental Overdoses](https://data.wprdc.org/dataset/allegheny-county-fatal-accidental-overdoses)
-
-Ezra's Dataset: [Non-Traffic Citations](https://data.wprdc.org/dataset/non-traffic-citations)
-
-Graham's Dataset: [City of Pittsburgh Property Tax Delinquency](https://data.wprdc.org/dataset/city-of-pittsburgh-property-tax-delinquency)
-
-Steps
+To Do:
 - [ ] Create zip code dataset
-- [ ] Group READMe:
-  + [ ] Team Name
-  + [ ] Team members and email addresses
-    * [ ] Which individual analysis notebook belongs to which team member
-  + [ ] Canvas group number
-  + [ ] Description and links to datasets used
-  + [ ] One sentence overview of repository, meant for someone not familiar with the project
+- [ ] Group READMe
 - [ ] Ishaan Individual Report
-- [ ] Ezra Individual Report
-- [ ] Graham Individual Report
 - [ ] Combined Report
+  + [ ] Individual conclusions

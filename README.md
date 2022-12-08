@@ -1,6 +1,6 @@
 # ***The Irresponsibles'* Final Project** (Group 13)
 ### Authors
-**Ishaan** (ishaan folder) <br> (EMAIL) <br>
+**Ishaan** (ishaan folder) <br> gcs28@pitt.edu <br>
 **Ezra** (ezra folder) <br> erc133@pitt.edu <br>
 **Graham** (graham folder) <br> (EMAIL) <br>
 ***
